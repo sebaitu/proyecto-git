@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 esto es el master texto
+=======
+esto es un solamente texto
+>>>>>>> modificacion
